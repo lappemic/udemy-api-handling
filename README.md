@@ -4,6 +4,8 @@
 
 This project is a web application that allows users to select their favorite taco ingredient and receive a recipe. Built with Express.js and EJS templating, it demonstrates handling API calls and dynamic content rendering based on user input. The project uses a JSON dataset to simulate database interaction.
 
+![Taco Recipe API Project](./public/images/application_screenshot.png)
+
 ## Key Learnings
 
 - **API Call Handling**: Learned to handle POST requests in Express.js, simulating API call behavior.
